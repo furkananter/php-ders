@@ -1,0 +1,3 @@
+<?php
+//kontrol.php
+?>
