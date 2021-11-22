@@ -1,2 +1,2 @@
-# php-ders
-Php Kodları ve Anlamları
+# php-ders-2
+ PHP Kodlaması ve Anlamları
