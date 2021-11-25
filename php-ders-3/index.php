@@ -29,6 +29,7 @@ if(mysqli_num_rows($sorgu)>0){
         echo "<tr>";
             echo "<td>".$row["ID"]."</td>";
             echo "<td>".$row["adi"]."</td>";
+            echo "<td>".$row["hesap_no"]."</td>";
         echo "</tr>";
     }
 }

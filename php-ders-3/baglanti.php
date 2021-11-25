@@ -1,4 +1,4 @@
 <?php
 //baglanti.php
-$baglan = mysqli_connect("localhost","root","","hepsiburada");
+$baglan = mysqli_connect("localhost","root","root","stprogramlama");
 ?>
