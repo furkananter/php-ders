@@ -1,4 +1,4 @@
 <?php
 //baglanti.php
-$baglan = mysqli_connect("localhost","root","root","stprogramlama");
+$baglan = mysqli_connect("localhost","db k-adi","sifreniz","baglanilacak-vt");
 ?>
